@@ -13,9 +13,6 @@
 #import "MZDeviceConnectProtocol.h"
 #import "MZAuthorizationProtocol.h"
 #import "MZSaveManagerProtocol.h"
-#import "ResultModel.h"
-#import "MZAuthorizationModel.h"
-
 
 @interface MZPowerStrip : NSObject
 
