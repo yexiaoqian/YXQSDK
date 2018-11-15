@@ -1,0 +1,6 @@
+framework module MZPowerStripSDK {
+  umbrella header "MZPowerStripSDK.h"
+
+  export *
+  module * { export * }
+}
