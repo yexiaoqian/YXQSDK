@@ -2,7 +2,7 @@
 
 
 Pod::Spec.new do |s|
-  s.name         = "TestPodTrunk"
+  s.name         = "YXQSDK"
   s.version      = "0.0.1"
   s.summary      = "this is test pod trunk"
   s.homepage     = "https://github.com/yexiaoqian/YXQSDK"
